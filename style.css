@@ -82,8 +82,11 @@ h2{
     aside{
         width: 100%;
     }
-    .liens{
-        margin: 0;
+    
+    
+    .items div{
         width: 100%;
+        
+
     }
 }
