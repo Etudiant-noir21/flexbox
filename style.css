@@ -79,6 +79,9 @@ h2{
         display: block;
 
     }
+     .largeur{
+        margin: auto;
+    }
     aside{
         width: 100%;
     }
@@ -89,7 +92,5 @@ h2{
         
 
     }
-    .largeur{
-        margin: auto;
-    }
+   
 }
